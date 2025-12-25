@@ -10,7 +10,7 @@ headers = {
 }
 
 payload = {
-    "username": "test_user_001",
+    "username": "quoc@acb.com.vn",
     "password": "TestPassword@123"
 }
 
@@ -30,4 +30,5 @@ except requests.exceptions.RequestException as e:
 
 
 # acb.com.vn
+
 # cuong@acb.com.vn
